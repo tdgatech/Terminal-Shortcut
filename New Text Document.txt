@@ -1,0 +1,13 @@
+# Terminal-Shortcut easy to do 
+1.ls list all files
+2.cd change direction 
+3.mkdir newfolder : make a new folder name newfolder
+4.open test.txt to open test.txt file
+5.cp test.text ~/Desktop to copy and save in desktop the same name
+6.cp test.txt copy_test.txt to copy and rename 
+7.mv test.text ~/Desktop toi move test.text and save in desktop the same name
+8.mv test.txt move_test.txt to move and rename 
+9.rm -R test to remove the folder test
+10.cp -R test to copy the folder test
+11.mv -R test to move the folder test
+12.~/Destop/Toan/Project example for the link to folder Project 
