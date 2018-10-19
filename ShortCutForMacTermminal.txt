@@ -11,3 +11,4 @@
 10.cp -R test to copy the folder test
 11.mv -R test to move the folder test
 12.~/Destop/Toan/Project example for the link to folder Project 
+13. control + command to switch row in sublimetext.
