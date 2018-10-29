@@ -13,3 +13,4 @@
 12.~/Destop/Toan/Project example for the link to folder Project 
 13. control + command to switch row in sublimetext.
 14. command L;command k; clear to clean up the terminal
+15. command W to close the active window.
