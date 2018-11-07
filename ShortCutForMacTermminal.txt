@@ -14,3 +14,4 @@
 13. control + command to switch row in sublimetext.
 14. command L;command k; clear to clean up the terminal
 15. command W to close the active window.
+cp -r FolderName/ (newDestination represent by ..)../newFolderName/
