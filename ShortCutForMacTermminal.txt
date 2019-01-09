@@ -15,3 +15,4 @@
 14. command L;command k; clear to clean up the terminal
 15. command W to close the active window.
 cp -r FolderName/ (newDestination represent by ..)../newFolderName/
+main tab print the whole line of public static void main....
