@@ -16,3 +16,5 @@
 15. command W to close the active window.
 cp -r FolderName/ (newDestination represent by ..)../newFolderName/
 main tab print the whole line of public static void main....
+pl<tab> for System.out.println()
+main[tab] for public static void main(String[] args) 
